@@ -2,6 +2,7 @@
 
 > 延伸自 [quant-strategies.md 第 4 節](quant-strategies.md#4-信用債量化策略)。從證券自營債券部的角度，整理信用債量化從資料、因子、組合建構到上線的完整流程。
 > 對應的 Python 範例在 [`credit_quant/`](credit_quant/)。
+> 套用在美元 AI 相關公司債的 Bloomberg Excel 版本：[`excel/AI_USD_Credit_Monitor.xlsx`](excel/AI_USD_Credit_Monitor.xlsx)。
 > 文獻與結論為整理摘要，引用前請回原文確認。
 
 ## 目錄

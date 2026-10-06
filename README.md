@@ -6,6 +6,7 @@
 >
 > 延伸：常用的債券量化策略（因子、曲線模型、信用、相對價值、事件型）整理在 [quant-strategies.md](quant-strategies.md)。
 > 信用債量化的深入整理在 [credit-quant.md](credit-quant.md)，Python 範例在 [`credit_quant/`](credit_quant/)。
+> 美元 AI 相關公司債的 Bloomberg Excel 監控表：[`excel/AI_USD_Credit_Monitor.xlsx`](excel/AI_USD_Credit_Monitor.xlsx)（由 `excel/build_ai_credit_workbook.py` 產生）。
 
 ## 目錄
 
