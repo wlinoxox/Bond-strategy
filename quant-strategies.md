@@ -192,6 +192,8 @@ Roll-down_i ≈ D_i × (y_i(T) − y_i(T − Δt))        ← 從現行曲線內
 
 ## 4. 信用債量化策略
 
+> 深入整理（DTS、因子定義、中性化、組合建構、回測陷阱、台灣應用）見 [credit-quant.md](credit-quant.md)，Python 範例在 [`credit_quant/`](credit_quant/)。
+
 ### 4.1 信用因子
 **文獻：**
 - Houweling & van Zundert (2017) *Factor Investing in the Corporate Bond Market*，FAJ：size、low-risk、value、momentum

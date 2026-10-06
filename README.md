@@ -5,6 +5,7 @@
 > 範例數字只是示意，實際操作請依公司授權額度、會計分類與內控規範。
 >
 > 延伸：常用的債券量化策略（因子、曲線模型、信用、相對價值、事件型）整理在 [quant-strategies.md](quant-strategies.md)。
+> 信用債量化的深入整理在 [credit-quant.md](credit-quant.md)，Python 範例在 [`credit_quant/`](credit_quant/)。
 
 ## 目錄
 
